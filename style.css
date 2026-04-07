@@ -7,7 +7,7 @@ body{
 }
 
 .header{
-	width:90%
+	width:90%;
 	margin:auto;
 	height:120px;
 	line-height:120px;
@@ -20,13 +20,14 @@ body{
 }
 .menu{
 	background-color:#417aa8;
-	height:50px
-	line-height:50px
+	height:50px;
+	line-height:50px;
 	position:relative;
 	widht:90%;
 	margin:0 auto;
 	padding:0 auto;
 }
+
 .menu ul {
 	list-style:none;
 }
