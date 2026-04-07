@@ -1,20 +1,20 @@
-body{
+	body{
 	
-	background:#f3f3f3;
-	color:#333;
-	width:100%;
-	font-family: sans-serif;
-	margin:0 auto;
-	}
+		background:#f3f3f3;
+		color:#333;
+		width:100%;
+		font-family: sans-serif;
+		margin:0 auto;
+		}
 
-.header{
-	width:90%;
-	margin:auto;
-	height:120px;
-	line-height:120px;
-	background:#417aa8;
-	color:#fff;
-	}     
+	.header{
+		width:90%;
+		margin:auto;
+		height:120px;
+		line-height:120px;
+		background:#417aa8;
+		color:#fff;
+		}     
 	.jarak{
 		padding:0 2pc;
 	}	
@@ -28,11 +28,11 @@ body{
 		padding:0 auto;
 	}
 
-	.menu ul  {
+	.menu ul {
 		list-style:none;
 	}
 
-	.menu ul li a  {
+	.menu ul li a {
 		float:left;
 		widht:70px;
 		display:block;
@@ -41,7 +41,7 @@ body{
 		text-decoration:none;
 	}
 
-	.menu ul li a:hover  {
+	.menu ul li a:hover {
 		background-color:#4b88bb;
 		display:block;
 	}
